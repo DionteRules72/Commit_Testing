@@ -1,1 +1,17 @@
-A sentence exist in side this file
+A sentence exist in side this file.
+Size
+Number 9
+The Line below this one is blank sadly.
+
+'.py' is a file type.
+I told you the line above this one was blank.
+Number 15
+There is a number in line 3 and 8.
+Large
+This is a '.txt' file.
+New York pizza is better than Chicago hotdogs.
+Another blank Line exist below again.
+
+40 - 10 = 30 is correct
+100 Million
+2 Dollars
